@@ -1,6 +1,6 @@
 # FlowMeter
 
-![Screenshot_1](Screenshots\Screenshot_1.png)
+![Screenshot_1](Screenshots/Screenshot_1.png)
 
 
 
